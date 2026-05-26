@@ -184,8 +184,3 @@ O dashboard possui:
 - 🥧 Gráfico de pizza
 - 📌 KPIs interativos
 
----
-
-# 👩‍💻 Autor
-
-Projeto desenvolvido para fins acadêmicos e prática de análise de dados com SQL e Python.
