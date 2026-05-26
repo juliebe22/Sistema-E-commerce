@@ -151,7 +151,7 @@ Execute os scripts SQL das tabelas e inserts.
 # ▶️ Executando o Dashboard
 
 ```bash
-streamlit run app.py
+streamlit run vendas.py
 ```
 
 ---
