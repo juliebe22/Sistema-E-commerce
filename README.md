@@ -184,3 +184,4 @@ O dashboard possui:
 - 🥧 Gráfico de pizza
 - 📌 KPIs interativos
 
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/ee12caea-089b-4a16-aa26-ee15c4f100ec" />
